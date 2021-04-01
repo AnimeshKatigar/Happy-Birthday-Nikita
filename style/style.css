@@ -119,9 +119,9 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 470px;
-  min-width: 470px;
-  min-height: 470px;
+  max-width: 100%;
+  /* min-width: 470px; */
+  /* min-height: 470px; */
   max-height: 470px;
 }
 
